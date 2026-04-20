@@ -16,6 +16,8 @@ Stats columns. A match in either column = FLAG.
 | 4 | 2026-03-04 | The 5-Minute Rule | Leads contacted within 5 minutes are 100x more likely to convert vs 30-minute response | Lead response time | Average agent response time: 15+ hours; 96% of buyers used internet in search; avg touches to reach lead: 6, avg agent makes: 1.3 |
 | 5 | 2026-03-10 | The Silent Referral Killer | 83% of clients avoid agents with a rating below four stars | Google Business Profile / online reputation | 81% of consumers check Google reviews before deciding (BrightLocal 2024); 65% of sellers find agent through referral (NAR 2024); ~80% of agents have no real Google Business Profile |
 | 6 | 2026-04-01 | The 9% Club | ⚠️ DUPLICATE — uses same stats as Episode 2 (403% / 9% / 73%) — DO NOT AIR WITHOUT TOPIC REPLACEMENT | VIDEO — DUPLICATE OF EP 2 | Same as Episode 2 — flagged |
+| 7 | 2026-04-15 | Win the Offer | [STAT NEEDED — avg offers submitted before winning in competitive market] | Buy-side strategy / multiple offer situations | [STAT NEEDED — non-highest-offer win rate]; [STAT NEEDED — median national rent]; [STAT NEEDED — home price appreciation rate] — all placeholders pending verification before airing |
+| 8 | 2026-04-22 | Your Buyer Is 59 | Median American homebuyer age is 59 (NAR 2025 Profile of Home Buyers and Sellers) | Buyer demographics / generational shift | First-time buyers 21% of market / record low since 1981 (NAR 2025 Profile); Boomers 42% of buyers, 55% of sellers (NAR 2025 Profile); 26% all-cash purchases, all-time high (NAR 2025 Profile) |
 
 ---
 
@@ -39,6 +41,11 @@ They may be briefly cited as context if directly relevant, but cannot anchor a n
 | Average agent response time is 15+ hours | Ep 4 |
 | 83% of clients avoid agents with rating below 4 stars | Ep 5 |
 | 81% of consumers check Google reviews before deciding | Ep 5 |
+| Median American homebuyer age: 59 (NAR 2025 Profile) | Ep 8 |
+| First-time buyers 21% of market / record low since 1981 (NAR 2025 Profile) | Ep 8 |
+| Boomers 42% of buyers (NAR 2025 Profile) | Ep 8 |
+| Boomers 55% of sellers (NAR 2025 Profile) | Ep 8 |
+| 26% of buyers paid all cash / all-time high (NAR 2025 Profile) | Ep 8 |
 
 ---
 
@@ -53,7 +60,9 @@ Prevents two episodes in close proximity covering the same theme.
 | Lead follow-up / conversion | Ep 3 |
 | Lead response time / speed | Ep 4 |
 | Online reputation / Google reviews | Ep 5 |
+| Buy-side strategy / multiple offer situations | Ep 7 |
+| Buyer demographics / generational shift | Ep 8 |
 
 ---
 
-_Last updated: 2026-04-01. Add a row after every episode airs._
+_Last updated: 2026-04-20. Add a row after every episode airs._
