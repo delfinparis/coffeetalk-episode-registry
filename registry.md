@@ -18,6 +18,7 @@ Stats columns. A match in either column = FLAG.
 | 6 | 2026-04-01 | The 9% Club | ⚠️ DUPLICATE — uses same stats as Episode 2 (403% / 9% / 73%) — DO NOT AIR WITHOUT TOPIC REPLACEMENT | VIDEO — DUPLICATE OF EP 2 | Same as Episode 2 — flagged |
 | 7 | 2026-04-15 | Win the Offer | [STAT NEEDED — avg offers submitted before winning in competitive market] | Buy-side strategy / multiple offer situations | [STAT NEEDED — non-highest-offer win rate]; [STAT NEEDED — median national rent]; [STAT NEEDED — home price appreciation rate] — all placeholders pending verification before airing |
 | 8 | 2026-04-22 | Your Buyer Is 59 | Median American homebuyer age is 59 (NAR 2025 Profile of Home Buyers and Sellers) | Buyer demographics / generational shift | First-time buyers 21% of market / record low since 1981 (NAR 2025 Profile); Boomers 42% of buyers, 55% of sellers (NAR 2025 Profile); 26% all-cash purchases, all-time high (NAR 2025 Profile) |
+| 9 | 2026-05-06 | 81 Percent Already Decided | 81% of recent sellers contacted only one agent before signing (NAR 2024 Profile of Home Buyers and Sellers) | Listing acquisition / pre-decision agent selection / sphere & referral pipeline | About four in ten sellers picked their agent through referral from friends, family, or a neighbor (NAR 2024 Profile); about one in five buyers (18%) used the same agent again (NAR 2025 Profile) |
 
 ---
 
@@ -46,6 +47,9 @@ They may be briefly cited as context if directly relevant, but cannot anchor a n
 | Boomers 42% of buyers (NAR 2025 Profile) | Ep 8 |
 | Boomers 55% of sellers (NAR 2025 Profile) | Ep 8 |
 | 26% of buyers paid all cash / all-time high (NAR 2025 Profile) | Ep 8 |
+| 81% of recent sellers contacted only one agent (NAR 2024 Profile) | Ep 9 |
+| About four in ten sellers picked agent through referral (NAR 2024 Profile) | Ep 9 |
+| About one in five buyers (18%) used the same agent again (NAR 2025 Profile) | Ep 9 |
 
 ---
 
@@ -62,7 +66,8 @@ Prevents two episodes in close proximity covering the same theme.
 | Online reputation / Google reviews | Ep 5 |
 | Buy-side strategy / multiple offer situations | Ep 7 |
 | Buyer demographics / generational shift | Ep 8 |
+| Listing acquisition / pre-decision agent selection / sphere & referral pipeline | Ep 9 |
 
 ---
 
-_Last updated: 2026-04-20. Add a row after every episode airs._
+_Last updated: 2026-05-04. Add a row after every episode airs._
