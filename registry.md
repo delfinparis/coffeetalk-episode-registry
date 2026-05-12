@@ -19,6 +19,7 @@ Stats columns. A match in either column = FLAG.
 | 7 | 2026-04-15 | Win the Offer | [STAT NEEDED — avg offers submitted before winning in competitive market] | Buy-side strategy / multiple offer situations | [STAT NEEDED — non-highest-offer win rate]; [STAT NEEDED — median national rent]; [STAT NEEDED — home price appreciation rate] — all placeholders pending verification before airing |
 | 8 | 2026-04-22 | Your Buyer Is 59 | Median American homebuyer age is 59 (NAR 2025 Profile of Home Buyers and Sellers) | Buyer demographics / generational shift | First-time buyers 21% of market / record low since 1981 (NAR 2025 Profile); Boomers 42% of buyers, 55% of sellers (NAR 2025 Profile); 26% all-cash purchases, all-time high (NAR 2025 Profile) |
 | 9 | 2026-05-06 | 81 Percent Already Decided | 81% of recent sellers contacted only one agent before signing (NAR 2024 Profile of Home Buyers and Sellers) | Listing acquisition / pre-decision agent selection / sphere & referral pipeline | About four in ten sellers picked their agent through referral from friends, family, or a neighbor (NAR 2024 Profile); about one in five buyers (18%) used the same agent again (NAR 2025 Profile) |
+| 10 | 2026-05-13 | When MLS Has Nothing: The 4 Doors System | 28% of buyers found the home they bought through their agent (NAR 2024 Profile of Home Buyers and Sellers) | Low-inventory buyer's-agent strategy / off-MLS inventory | 51% of buyers found home on the internet (NAR 2024 Profile); ~6% of home sales were For Sale By Owner (NAR 2024 Profile — verify exact figure before airing) |
 
 ---
 
@@ -50,6 +51,9 @@ They may be briefly cited as context if directly relevant, but cannot anchor a n
 | 81% of recent sellers contacted only one agent (NAR 2024 Profile) | Ep 9 |
 | About four in ten sellers picked agent through referral (NAR 2024 Profile) | Ep 9 |
 | About one in five buyers (18%) used the same agent again (NAR 2025 Profile) | Ep 9 |
+| 28% of buyers found home through their agent (NAR 2024 Profile) | Ep 10 |
+| 51% of buyers found home on the internet (NAR 2024 Profile) | Ep 10 |
+| ~6% of home sales were FSBO (NAR 2024 Profile) | Ep 10 |
 
 ---
 
@@ -67,7 +71,8 @@ Prevents two episodes in close proximity covering the same theme.
 | Buy-side strategy / multiple offer situations | Ep 7 |
 | Buyer demographics / generational shift | Ep 8 |
 | Listing acquisition / pre-decision agent selection / sphere & referral pipeline | Ep 9 |
+| Low-inventory buyer's-agent strategy / off-MLS inventory | Ep 10 |
 
 ---
 
-_Last updated: 2026-05-04. Add a row after every episode airs._
+_Last updated: 2026-05-11. Add a row after every episode airs._
