@@ -21,6 +21,7 @@ Stats columns. A match in either column = FLAG.
 | 9 | 2026-05-06 | 81 Percent Already Decided | 81% of recent sellers contacted only one agent before signing (NAR 2024 Profile of Home Buyers and Sellers) | Listing acquisition / pre-decision agent selection / sphere & referral pipeline | About four in ten sellers picked their agent through referral from friends, family, or a neighbor (NAR 2024 Profile); about one in five buyers (18%) used the same agent again (NAR 2025 Profile) |
 | 10 | 2026-05-13 | When MLS Has Nothing: The 4 Doors System | 28% of buyers found the home they bought through their agent (NAR 2024 Profile of Home Buyers and Sellers) | Low-inventory buyer's-agent strategy / off-MLS inventory | 51% of buyers found home on the internet (NAR 2024 Profile); ~6% of home sales were For Sale By Owner (NAR 2024 Profile — verify exact figure before airing) |
 | 11 | 2026-06-03 | The Empty Stage | 85% of agents aren't on TikTok / only 15% use it in their business (NAR 2024 Technology Survey, agent-reported) | Social platform adoption / TikTok distribution | More than 100M Americans use TikTok daily (third-party est. 2025 — peaked ~100M Jul–Oct, ~102M Sept; TikTok publishes no official figure); Facebook 87% / Instagram 62% / LinkedIn 48% / YouTube 25% of agents (NAR 2024 Technology Survey); ~136M monthly US TikTok users (third-party est. 2025); [STAT NEEDED — share of US TikTok users age 30+, verify before airing] |
+| 12 | 2026-06-16 | The Day-One Number | 17.5% of active listings had a price reduction in May, down ~1.6 points YoY — even as list prices fell at the steepest pace since 2017 (Realtor.com May 2026 Monthly Housing Trends Report) | Seller pricing strategy / overpricing / days-on-market | Median list price $429,500, down 2.4% YoY, seventh straight month of declines / steepest annual drop since 2017 (Realtor.com May 2026 report); newly pending sales up for the sixth straight month / +4.3% YoY (Realtor.com May 2026 report); active inventory +2.2% YoY (Realtor.com May 2026 report); Danielle Hale (Realtor.com Chief Economist) on-record quote re: sellers adjusting and buyers rewarding (Realtor.com May 2026 report) |
 
 ---
 
@@ -59,6 +60,10 @@ They may be briefly cited as context if directly relevant, but cannot anchor a n
 | More than 100M Americans use TikTok daily (third-party est. 2025) | Ep 11 |
 | Agent platform usage: Facebook 87% / Instagram 62% / LinkedIn 48% / YouTube 25% (NAR 2024 Technology Survey) | Ep 11 |
 | ~136M monthly US TikTok users (third-party est. 2025) | Ep 11 |
+| 17.5% of active listings had a price reduction in May, down ~1.6 pts YoY (Realtor.com May 2026 report) | Ep 12 |
+| Median list price $429,500, down 2.4% YoY / steepest annual drop since 2017 / seventh straight month of declines (Realtor.com May 2026 report) | Ep 12 |
+| Newly pending sales up sixth straight month / +4.3% YoY (Realtor.com May 2026 report) | Ep 12 |
+| Active inventory +2.2% YoY (Realtor.com May 2026 report) | Ep 12 |
 
 ---
 
@@ -78,7 +83,8 @@ Prevents two episodes in close proximity covering the same theme.
 | Listing acquisition / pre-decision agent selection / sphere & referral pipeline | Ep 9 |
 | Low-inventory buyer's-agent strategy / off-MLS inventory | Ep 10 |
 | Social platform adoption / TikTok distribution | Ep 11 |
+| Seller pricing strategy / overpricing / days-on-market | Ep 12 |
 
 ---
 
-_Last updated: 2026-06-03. Add a row after every episode airs._
+_Last updated: 2026-06-16. Add a row after every episode airs._
