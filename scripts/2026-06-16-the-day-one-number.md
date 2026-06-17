@@ -38,7 +38,7 @@ D.J.: One group. The sellers who listed high, sat there, and then panicked. And 
 
 TIM: And buyers smell blood.
 
-D.J.: They circle. They wait for the next one. Meanwhile the home that priced right on day one had three showings the first weekend and went under contract before the overpriced one ever dropped a dollar. That's the gap we're fixing today. Your listing doesn't get punished for a low price. It gets punished for a wrong price.
+D.J.: They circle. They wait for the next one. Meanwhile the home that priced right on day one had three showings the first weekend and went under contract before the overpriced one ever dropped a dollar. That's the gap we're fixing today. The market doesn't punish your listing for a low price. It punishes the wrong one.
 
 TIM: Say that one more time.
 
@@ -50,7 +50,7 @@ TIM: So why do agents keep letting sellers list high? Everybody knows overpricin
 
 D.J.: Two reasons, and neither one is stupidity. The first is the listing appointment itself. You're sitting across from a seller who wants a big number. If you give them a number they love, you win the listing. The agent who tells the truth sometimes loses it to the agent who tells the fantasy.
 
-TIM: So we're rewarded for lying.
+TIM: So the liar wins the listing.
 
 D.J.: In the short term, yes. You win the listing, then you spend six weeks slowly walking that seller back down to the number you knew on day one. Two months of stress to land where honesty would've put you in a week.
 
@@ -61,6 +61,8 @@ D.J.: The seller's anchor. They saw their neighbor's house list for a number eig
 TIM: That one's real. I hear it every week. "But the house down the street got way more than that."
 
 D.J.: And it did. In a market that's gone. List prices just posted their steepest annual drop since 2017. Seven straight months down. The neighbor's number isn't a comp. It's a ghost.
+
+TIM: Watching live, if a seller's ever quoted you their neighbor's old price, tell us what they said. You won't be the only one.
 
 D.J.: Now before we get into the fix, I want you to do one thing. Think of one listing. A real one. Either a listing you have right now that's sitting, or a listing appointment you've got coming up this week. Picture the address. Don't say it out loud. Just hold that one listing in your head.
 
@@ -98,11 +100,19 @@ D.J.: Go.
 
 TIM: This sounds clean in a coffee shop. But in the real world, the seller across from me has a number they need to net. They've got a down payment on the next house riding on it. I can talk about brackets all day, they're going to say, "Tim, I can't take less than X." What do I do with that?
 
-D.J.: That's the right pushback, and it's the realest one there is. Here's the honest answer. You don't argue with their need. Their need is real. But the market doesn't pay sellers based on need. It pays based on worth. So you separate the two out loud. You say, "I hear what you need to net. Let's look at what the house will actually bring this week, and then let's see if there's a gap." Sometimes there's no gap and you're fine. Sometimes there's a gap, and now you're solving a real problem together instead of pretending the high price makes the gap disappear. Hiding the gap behind a fantasy price doesn't close it. It just makes the seller pay for it in time and in cuts.
+D.J.: That's the right pushback, and it's the realest one there is. Here's the honest answer. You don't argue with their need. Their need is real. But the market doesn't pay sellers based on need. It pays based on worth.
+
+TIM: So need and worth aren't the same conversation.
+
+D.J.: They're not, and you keep them apart out loud. You tell the seller, "I hear what you need to net. Let's look at what the house actually brings this week, then let's see if there's a gap." Sometimes there's no gap and you're fine. Sometimes there's a gap, and now you're solving it together instead of pretending a high price makes it vanish.
+
+TIM: Instead of hiding it behind the number.
+
+D.J.: Hiding the gap behind a fantasy price doesn't close it. It just makes the seller pay for it in time, and in cuts.
 
 TIM: So you name the gap instead of burying it.
 
-D.J.: You name it on day one, in private, with your seller, instead of letting the market name it in public, six weeks later, in front of everyone. People watching live, drop the one objection you hear most on listing appointments. I want to see if it's the net number or something else.
+D.J.: You name it on day one, in private, with your seller, instead of letting the market name it in public, six weeks later, in front of everyone. People watching live, drop the one objection you hear most on listing appointments. Is it the net number, or something else?
 
 SEGMENT 4: THE HARD OBJECTION (~11:00 – ~12:45)
 
@@ -132,7 +142,7 @@ D.J.: It burns it in slow motion. A right-priced home gets the showings, gets th
 
 CLOSE (~14:15 – ~15:00)
 
-D.J.: Alright. Seventeen and a half percent of listings cut their price, and the ones who didn't are the ones who got it right on day one. That listing you've been holding in your head. Here's exactly what you do right now. Open your photos or your notes app and write down two things. One, the Day-One Number you'd actually bet sells it in the first week. Two, the four active listings a buyer would tour instead. That's the page you walk in with.
+D.J.: Alright. Seventeen and a half percent of listings cut their price, and the ones who didn't are the ones who got it right on day one. That listing you've been holding in your head. Here's exactly what you do right now. Open your notes app and write down the Day-One Number, the price you'd honestly bet sells it in week one. Under it, list the four closest active listings a buyer tours instead of yours. That's the page you walk in with.
 
 TIM: One number. Four competitors. One page.
 
@@ -168,7 +178,7 @@ END
 | List prices posted their steepest annual decline since 2017, seven straight months of declines (median list price $429,500, down 2.4% YoY) | Realtor.com May 2026 Monthly Housing Trends Report | 2026 | Listing/MLS-aggregated market data | Confirmed |
 | Newly pending sales rose for the sixth straight month (+4.3% YoY) | Realtor.com May 2026 Monthly Housing Trends Report | 2026 | Listing/MLS-aggregated market data | Confirmed |
 | Active inventory up a little over two percent from last year (+2.2% YoY) | Realtor.com May 2026 Monthly Housing Trends Report | 2026 | Listing/MLS-aggregated market data | Confirmed |
-| "Six months of sellers adjusting their expectations and buyers rewarding them for it" (paraphrased in cold-open framing) | Danielle Hale, Chief Economist, Realtor.com — May 2026 report | 2026 | Named-economist on-record quote | Confirmed |
+| "Higher rates and geopolitical uncertainty could have sidelined both buyers and sellers this spring. Instead, we've seen six months of sellers adjusting their expectations and buyers rewarding them for it." (reference quote, not spoken in dialogue) | Danielle Hale, Chief Economist, Realtor.com — May 2026 report | 2026 | Named-economist on-record quote | Confirmed (verbatim) |
 
 No [STAT NEEDED] placeholders. Every figure traces to the Realtor.com May 2026 Monthly Housing Trends Report (published early June 2026).
 
@@ -229,7 +239,7 @@ What you'll learn:
 • The Day-One Number: the one price you'd both bet sells in week one
 • How to present comps as the buyer's behavior, not your opinion, so you exit the price fight
 
-If this helps you walk into your next listing appointment with more confidence, subscribe so you catch every episode.
+New episodes air every week, built for agents who'd rather price a listing right than price it high.
 
 Chapters:
 0:00 The 17.5% surprise
