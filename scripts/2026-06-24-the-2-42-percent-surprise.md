@@ -76,15 +76,19 @@ D.J.: Here's the framework. I call it Worth Out Loud. Three parts. The whole poi
 
 TIM: Worth out loud. Because the problem is it's been silent.
 
-D.J.: It's been silent for decades. The MLS said the number for you, so you never learned to. Part one. The Name It First move. You bring up how you get paid before the buyer does. The moment you let the buyer raise it first, you're on defense. You're answering a challenge. When you raise it first, you're just stating how this works. Same number, completely different power. You say, here's what I do, here's what it costs, here's how it gets covered. Calm, early, yours.
+D.J.: It's been silent for decades. The MLS said the number for you, so you never learned to. Part one. The Name It First move. You bring up how you get paid before the buyer does. Let the buyer raise it first, and you're on defense, answering a challenge. Raise it first, and you're just stating how this works. Same number, completely different power. Here's what I do, here's what it costs, here's how it gets covered. Calm, early, yours.
 
 TIM: So you're not waiting to get cornered.
 
-D.J.: You never wait. The agent who waits ends up negotiating against themselves. Part two. The Proof Stack. This is where most agents fall apart, because they've never written down what they actually do. So you build a short list, out loud, of the specific work a buyer never sees. You find homes before they hit the portals. You read the inspection like a contractor would. You negotiate repairs the buyer would've missed. You manage the lender, the title company, the deadlines. Each one is a thing that costs the buyer real money if it goes wrong. You're not selling a percentage. You're selling the catch, the save, the deal that didn't fall apart.
+D.J.: You never wait. The agent who waits negotiates against themselves. Part two. The Proof Stack. Most agents fall apart here, because they've never written down what they actually do. So you build a short list, out loud, of the work a buyer never sees. You find homes before they hit the portals. You read the inspection like a contractor would. You negotiate the repairs the buyer would've missed. You manage the lender, the title, the deadlines. Each one costs the buyer real money if it goes wrong. You're not selling a percentage, you're selling the save, the deal that didn't fall apart.
 
-TIM: Hold on, let me jump in. Isn't there a risk you just sound like you're bragging?
+TIM: Hold on, let me jump in. How do you run that list without sounding like you're bragging?
 
-D.J.: Good catch, and the fix is in how you say it. You don't say I'm great. You say here's what goes wrong without this, and here's how I catch it. It's not about you. It's about the cost of going in alone. Part three. The Choice Frame. You hand the buyer the decision instead of defending your fee. You say, you can absolutely buy a house without me. People do it. Here's what that looks like, and here's what working together looks like, and you pick. The second you make it their choice, you stop being a salesperson they resist. You become the option they'd be crazy to skip.
+D.J.: The fix is in how you say it. You don't say I'm great. You say here's what goes wrong without this, and here's how I catch it. It's not about you. It's about the cost of going in alone.
+
+TIM: So the proof isn't a flex. It's a warning label.
+
+D.J.: That's it. Part three. The Choice Frame. You hand the buyer the decision instead of defending your fee. You say, you can absolutely buy a house without me, people do it. Here's what that looks like, here's what working together looks like, and you pick. The second you make it their choice, you stop being a salesperson they resist. You become the option they'd be crazy to skip.
 
 TIM: That buyer I'm holding from earlier? I've been doing the opposite. I wait, then I justify.
 
@@ -163,9 +167,9 @@ END
 | Stat as written in dialogue | Source | Year | Survey type | Confidence |
 |------|--------|------|-------------|------------|
 | The average buyer's-agent commission was two point four two percent in Q3 2025, up from two point three six a year earlier | Redfin commissions report (Q3 2025 data) | 2025 (published Dec 8, 2025) | Transaction/closed-deal aggregated data (not a survey) | Confirmed |
-| On homes under five hundred thousand, the average buyer-side rate was two point five two percent and holding (up from 2.45% a year earlier, highest for that tier since Q3 2023) | Redfin commissions report (Q3 2025 data) | 2025 (published Dec 8, 2025) | Transaction/closed-deal aggregated data | Confirmed |
+| On homes under five hundred thousand, the average buyer-side rate was two point five two percent and holding (up from 2.45% a year earlier, highest for that tier since late 2023) | Redfin commissions report (Q3 2025 data) | 2025 (published Dec 8, 2025) | Transaction/closed-deal aggregated data | Confirmed |
 | The Sitzer/Burnett settlement: NAR agreed to pay four hundred eighteen million dollars, stop posting buyer-agent compensation on the MLS, and require signed written buyer-broker agreements before showings; rules took effect August 2024 | Sitzer/Burnett (Burnett v. NAR) settlement, widely reported | 2024 | Legal settlement terms (court-approved) | Confirmed |
-| The median REALTOR earned fifty-eight thousand one hundred dollars last year | NAR 2025 Member Profile (median gross income, reflecting 2024 earnings) | 2025 | Agent-reported survey (4,947 NAR members, March 2025) | Confirmed |
+| The median REALTOR earned fifty-eight thousand one hundred dollars last year | NAR 2025 Member Profile (median gross income, reflecting 2024 earnings) | 2025 | Agent-reported member survey | Confirmed |
 
 No [STAT NEEDED] placeholders. Every figure traces to a named source and year: Redfin December 2025 commissions report (Q3 2025 data), the Burnett v. NAR settlement (2024), and the NAR 2025 Member Profile.
 
