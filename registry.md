@@ -21,6 +21,7 @@ Stats columns. A match in either column = FLAG.
 | 9 | 2026-05-06 | 81 Percent Already Decided | 81% of recent sellers contacted only one agent before signing (NAR 2024 Profile of Home Buyers and Sellers) | Listing acquisition / pre-decision agent selection / sphere & referral pipeline | About four in ten sellers picked their agent through referral from friends, family, or a neighbor (NAR 2024 Profile); about one in five buyers (18%) used the same agent again (NAR 2025 Profile) |
 | 10 | 2026-05-13 | When MLS Has Nothing: The 4 Doors System | 28% of buyers found the home they bought through their agent (NAR 2024 Profile of Home Buyers and Sellers) | Low-inventory buyer's-agent strategy / off-MLS inventory | 51% of buyers found home on the internet (NAR 2024 Profile); ~6% of home sales were For Sale By Owner (NAR 2024 Profile — verify exact figure before airing) |
 | 11 | 2026-06-03 | The Empty Stage | 85% of agents aren't on TikTok / only 15% use it in their business (NAR 2024 Technology Survey, agent-reported) | Social platform adoption / TikTok distribution | More than 100M Americans use TikTok daily (third-party est. 2025 — peaked ~100M Jul–Oct, ~102M Sept; TikTok publishes no official figure); Facebook 87% / Instagram 62% / LinkedIn 48% / YouTube 25% of agents (NAR 2024 Technology Survey); ~136M monthly US TikTok users (third-party est. 2025); [STAT NEEDED — share of US TikTok users age 30+, verify before airing] |
+| 13 | 2026-06-24 | The 2.42% Surprise | Average U.S. buyer's-agent commission rose to 2.42% in Q3 2025, up from 2.36% in Q3 2024 — the quarter the new NAR settlement rules took effect (Redfin December 2025 commissions report, Q3 2025 data) | Commissions / NAR settlement aftermath / buyer-broker agreements | Homes under $500,000 averaged 2.52% buyer's-agent commission in Q3 2025, up from 2.45% a year earlier / highest for that tier since Q3 2023 (Redfin December 2025 report); Sitzer/Burnett settlement — NAR agreed to pay $418M, stop posting buyer-agent compensation on the MLS, require signed written buyer-broker agreements before showings, rules effective August 2024 (widely reported, 2024); median REALTOR gross income $58,100 (NAR 2025 Member Profile, agent-reported, reflecting 2024 earnings) |
 | 12 | 2026-06-16 | The Day-One Number | 17.5% of active listings had a price reduction in May, down ~1.6 points YoY — even as list prices fell at the steepest pace since 2017 (Realtor.com May 2026 Monthly Housing Trends Report) | Seller pricing strategy / overpricing / days-on-market | Median list price $429,500, down 2.4% YoY, seventh straight month of declines / steepest annual drop since 2017 (Realtor.com May 2026 report); newly pending sales up for the sixth straight month / +4.3% YoY (Realtor.com May 2026 report); active inventory +2.2% YoY (Realtor.com May 2026 report); Danielle Hale (Realtor.com Chief Economist) on-record quote re: sellers adjusting and buyers rewarding (Realtor.com May 2026 report) |
 
 ---
@@ -64,6 +65,10 @@ They may be briefly cited as context if directly relevant, but cannot anchor a n
 | Median list price $429,500, down 2.4% YoY / steepest annual drop since 2017 / seventh straight month of declines (Realtor.com May 2026 report) | Ep 12 |
 | Newly pending sales up sixth straight month / +4.3% YoY (Realtor.com May 2026 report) | Ep 12 |
 | Active inventory +2.2% YoY (Realtor.com May 2026 report) | Ep 12 |
+| Average U.S. buyer's-agent commission 2.42% in Q3 2025, up from 2.36% in Q3 2024 (Redfin Dec 2025 report) | Ep 13 |
+| Homes under $500,000 averaged 2.52% buyer's-agent commission in Q3 2025, up from 2.45% YoY / highest since Q3 2023 (Redfin Dec 2025 report) | Ep 13 |
+| Sitzer/Burnett settlement: NAR $418M, no buyer-agent comp on MLS, written buyer-broker agreements, effective Aug 2024 (widely reported 2024) | Ep 13 |
+| Median REALTOR gross income $58,100 (NAR 2025 Member Profile, agent-reported) | Ep 13 |
 
 ---
 
@@ -84,7 +89,8 @@ Prevents two episodes in close proximity covering the same theme.
 | Low-inventory buyer's-agent strategy / off-MLS inventory | Ep 10 |
 | Social platform adoption / TikTok distribution | Ep 11 |
 | Seller pricing strategy / overpricing / days-on-market | Ep 12 |
+| Commissions / NAR settlement aftermath / buyer-broker agreements | Ep 13 |
 
 ---
 
-_Last updated: 2026-06-16. Add a row after every episode airs._
+_Last updated: 2026-06-24. Add a row after every episode airs._
