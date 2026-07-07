@@ -1,6 +1,6 @@
 # Coffee Talk Episode Registry
 
-Tracks every stat and topic used in **Coffee Talk with Tim & D.J.** episodes.
+Tracks every stat and topic used in **Coffee Talk with D.J. Paris** episodes.
 
 Used by the script generator as a pre-run check to prevent stat or topic
 repetition across episodes.
