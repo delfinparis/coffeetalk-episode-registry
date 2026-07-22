@@ -24,6 +24,7 @@ Stats columns. A match in either column = FLAG.
 | 12 | 2026-06-16 | The Day-One Number | 17.5% of active listings had a price reduction in May, down ~1.6 points YoY — even as list prices fell at the steepest pace since 2017 (Realtor.com May 2026 Monthly Housing Trends Report) | Seller pricing strategy / overpricing / days-on-market | Median list price $429,500, down 2.4% YoY, seventh straight month of declines / steepest annual drop since 2017 (Realtor.com May 2026 report); newly pending sales up for the sixth straight month / +4.3% YoY (Realtor.com May 2026 report); active inventory +2.2% YoY (Realtor.com May 2026 report); Danielle Hale (Realtor.com Chief Economist) on-record quote re: sellers adjusting and buyers rewarding (Realtor.com May 2026 report) |
 | 13 | 2026-06-24 | The 2.42% Surprise | Average U.S. buyer's-agent commission rose to 2.42% in Q3 2025, up from 2.36% in Q3 2024 — the quarter the new NAR settlement rules took effect (Redfin December 2025 commissions report, Q3 2025 data) | Commissions / NAR settlement aftermath / buyer-broker agreements | Homes under $500,000 averaged 2.52% buyer's-agent commission in Q3 2025, up from 2.45% a year earlier / highest for that tier since Q3 2023 (Redfin December 2025 report); Sitzer/Burnett settlement — NAR agreed to pay $418M, stop posting buyer-agent compensation on the MLS, require signed written buyer-broker agreements before showings, rules effective August 2024 (widely reported, 2024); median REALTOR gross income $58,100 (NAR 2025 Member Profile, agent-reported, reflecting 2024 earnings) |
 | 14 | 2026-07-08 | Your Database Is a Graveyard | Typical agent gets one in five deals (20%) from repeat clients (NAR 2025 Member Profile, agent-reported, 2024 data) | Database / sphere consistency | Another 21% of the typical agent's business comes from referrals from past clients (NAR 2025 Member Profile, agent-reported); among agents with 16+ years of experience, four in ten say repeat clients alone are more than half their business (NAR 2025 Member Profile, agent-reported); Inman July 2026 headline "You didn't lose that client to a better agent. You lost them to silence" (trade commentary, referenced not as a stat) |
+| 15 | 2026-07-22 | The Thirty-Day Grip | 13.6% of May home-sale agreements fell through — nearly one in seven deals died after going under contract (Redfin, published 6/17/2026, transaction data) | Contract-to-close / escrow retention | Cancellation rate held between 13.4% and 14% for two straight years (Redfin 6/17/2026); Atlanta 18.8% highest of 50 largest metros, followed by Fort Worth 18.1%, Jacksonville 17.9%, San Antonio 17.8%, Orlando 17.7% (Redfin 6/17/2026); 6% of contracts terminated in previous three months (NAR REALTORS® Confidence Index June 2026, published 7/8/2026, agent-reported); 7% of contracts delayed by appraisal issues (NAR RCI June 2026, agent-reported); contracts typically close in 30 days (NAR RCI June 2026, agent-reported); Redfin agent commentary citing buyer alternatives in buyer's markets plus economic/job-security fear as cancellation drivers (Redfin 6/17/2026, qualitative) |
 
 ---
 
@@ -73,6 +74,12 @@ They may be briefly cited as context if directly relevant, but cannot anchor a n
 | One in five (20%) of typical agent's business from repeat clients (NAR 2025 Member Profile) | Ep 14 |
 | 21% of typical agent's business from referrals from past clients (NAR 2025 Member Profile) | Ep 14 |
 | 4 in 10 agents with 16+ yrs say repeat business is more than half their business (NAR 2025 Member Profile) | Ep 14 |
+| 13.6% of May 2026 home-sale agreements fell through / nearly one in seven (Redfin 6/17/2026) | Ep 15 |
+| Cancellation rate held 13.4%–14% for two straight years (Redfin 6/17/2026) | Ep 15 |
+| Atlanta 18.8% / Fort Worth 18.1% / Jacksonville 17.9% / San Antonio 17.8% / Orlando 17.7% cancellations (Redfin 6/17/2026) | Ep 15 |
+| 6% of contracts terminated in prior three months (NAR RCI June 2026, agent-reported) | Ep 15 |
+| 7% of contracts delayed by appraisal issues / one in fourteen (NAR RCI June 2026, agent-reported) | Ep 15 |
+| Contracts typically close in 30 days (NAR RCI June 2026, agent-reported) | Ep 15 |
 
 ---
 
@@ -95,7 +102,8 @@ Prevents two episodes in close proximity covering the same theme.
 | Seller pricing strategy / overpricing / days-on-market | Ep 12 |
 | Commissions / NAR settlement aftermath / buyer-broker agreements | Ep 13 |
 | Database / sphere consistency | Ep 14 |
+| Contract-to-close / escrow retention / deal cancellations | Ep 15 |
 
 ---
 
-_Last updated: 2026-07-07. Add a row after every episode airs._
+_Last updated: 2026-07-22. Add a row after every episode airs._
